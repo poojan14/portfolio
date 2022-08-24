@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](https://poojan-shah.netlify.app/)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](https://imgur.com/6xGUOvs)
 
